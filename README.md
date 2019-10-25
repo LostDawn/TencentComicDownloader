@@ -1,7 +1,7 @@
 # TencentComicDownloader
  Tencent Comic Downloader
 > ### Target
-This project try to download comic images from tencent website
+This project try to download comic images parallelly from tencent website
 > ### Feature
 1. ##### A custom http downloader.
 + You can manage your http request easily. For example, when your IP is banned by tencent, you can change your IP easily in only one function and then continue interrtuped requests   automatically.
@@ -35,3 +35,5 @@ public static void main(String[] args) throws Exception
 	System.out.println("Finish all tasks!");
 }
 ```
+> ### At last
+Welcome to communicate with me and learn java together!
